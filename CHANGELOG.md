@@ -5,6 +5,22 @@
 格式基于 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.0.0/)，
 并且本项目遵循 [语义化版本](https://semver.org/lang/zh-CN/)。
 
+## [未发布]
+
+### 新增
+
+- 核心组件开发
+  - Button 按钮组件
+    - 支持多种变体：primary, secondary, success, warning, error, info, ghost
+    - 支持三种尺寸：small, medium, large
+    - 支持玻璃拟态效果和三种效果级别
+    - 支持图标、加载状态和禁用状态
+  - Input 输入框组件
+    - 支持多种变体：outline, filled, flushed, unstyled
+    - 支持三种尺寸：small, medium, large
+    - 支持标签、错误提示、图标
+    - 支持玻璃拟态效果和三种效果级别
+
 ## [0.1.0] - 2023-07-07
 
 ### 新增
